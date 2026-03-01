@@ -98,13 +98,3 @@ The discourse extends beyond product features and touches on legitimacy and fair
 
 ---
 
-## Visualization
-
-(Insert your exported chart images here)
-
-Example:
-
-```markdown
-![Sentiment by Video Type](charts/sentiment_by_type.png)
-
-![Copyright Discussion Share](charts/copyright_by_type.png)
